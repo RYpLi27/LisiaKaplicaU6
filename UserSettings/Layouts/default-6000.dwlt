@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 9}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -402,7 +402,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Buildings/kemono barracks/texture
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -413,14 +414,14 @@ MonoBehaviour:
   m_StartGridSize: 44
   m_LastFolders: []
   m_LastFoldersGridSize: 44
-  m_LastProjectPath: D:\Dokumenty\Unity\LisiaKaplicaU6
+  m_LastProjectPath: C:\Users\labek\Desktop\gra zbigniewa\UnityProject\LisiaKaplicaU6
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 381e0000
     m_LastClickedID: 7736
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000044a6000046a6000048a600004aa600004ca60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -449,7 +450,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000044a6000046a6000048a600004aa600004ca60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -597,7 +598,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 98f5ffff40f6ffff1cfbffff
+      m_ExpandedIDs: d650ffffce5dffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1145,9 +1146,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 0.0476336, y: 0.8770632, z: 0.019451989}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 0.0476336, y: 0.8770632, z: 0.019451989}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1193,13 +1194,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: 0.05119719, y: -0.94377893, z: 0.17495368, w: 0.27589774}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.051195443, y: 0.94374675, z: -0.17494772, w: -0.27588832}
   m_Size:
-    m_Target: 10
+    m_Target: 4.170965
     speed: 2
-    m_Value: 10
+    m_Value: 4.170965
   m_Ortho:
     m_Target: 0
     speed: 2
